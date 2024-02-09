@@ -2,16 +2,16 @@
   "dados":{
     "id":"45854521",
     "tipo": "SensorPresenca",
-    "acoes":[
+    "acoes":
       {}
-    ],
-    "propriedades":[
+    ,
+    "propriedades":
       {
       "NomeDispositivo": "Sensor Presenca", 
       "Sinal":255,
       "Bateria":"100%",
       "Ocupancia": "Ocupado"
       }
-    ]
+    
   }
 }

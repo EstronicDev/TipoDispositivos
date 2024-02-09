@@ -2,16 +2,16 @@
   "dados":{
     "id":"45854521",
     "tipo": "SensorVibracao",
-    "acoes":[
+    "acoes":
       {}
-    ],
-    "propriedades":[
+    ,
+    "propriedades":
       {
       "NomeDispositivo": "Sensor Vibração", 
       "Sinal":255,
       "Bateria":"100%",
       "Vibracao": "Verdadeiro"
       }
-    ]
+    
   }
 }

@@ -2,16 +2,14 @@
   "dados":{
     "id":"45854521",
     "tipo": "SensorPorta",
-    "acoes":[
-      {}
-    ],
-    "propriedades":[
+    "acoes":
+      {},
+    "propriedades":
       {
       "NomeDispositivo": "Sensor Porta Fundo", 
       "Sinal":255,
       "Bateria":"100%",
       "Status": "Aberto/Fechado"
       }
-    ]
   }
 }

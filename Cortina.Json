@@ -2,19 +2,19 @@
   "dados":{
     "id":"45854521",
     "tipo": "Cortina",
-    "acoes":[
+    "acoes":
       {"Abrir": true,
       "Fechar": true,
       "Parar": true,
       "Posicao": "100%"}
-    ],
-    "propriedades":[
+    ,
+    "propriedades":
       {
       "Sinal":255,
       "Status":"Aberta/Fechada",
       "Posicao": "100%",
       "NomeDispositivo": "Cortina 01"
       }
-    ]
+    
   }
 }

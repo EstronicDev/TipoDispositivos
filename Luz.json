@@ -2,15 +2,15 @@
   "dados":{
     "id":"45854521",
     "tipo": "Luz",
-    "acoes":[
+    "acoes":
       {"ligar": true}
-    ],
-    "propriedades":[
+    ,
+    "propriedades":
       {
       "Sinal":255,
       "Status":"Ligado/Desligado",
       "NomeDispositivo": "Luz 01"
       }
-    ]
+    
   }
 }
