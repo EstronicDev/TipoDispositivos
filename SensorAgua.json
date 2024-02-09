@@ -1,0 +1,17 @@
+{
+  "dados":{
+    "id":"45854521",
+    "tipo": "SensorAgua",
+    "acoes":[
+      {}
+    ],
+    "propriedades":[
+      {
+      "NomeDispositivo": "Sensor Água", 
+      "Sinal":255,
+      "Bateria":"100%",
+      "Inundacao": "Verdadeiro"
+      }
+    ]
+  }
+}

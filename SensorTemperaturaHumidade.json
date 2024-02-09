@@ -1,0 +1,18 @@
+{
+  "dados":{
+    "id":"45854521",
+    "tipo": "SensorTemperaturaHumidade",
+    "acoes":[
+      {}
+    ],
+    "propriedades":[
+      {
+      "NomeDispositivo": "Sensor Temperatura Humidade", 
+      "Sinal":255,
+      "Bateria":"100%",
+      "Temperatura": "22,60",
+      "Humidade" : "50,42%"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "dados":{
+    "id":"45854521",
+    "tipo": "Luz",
+    "acoes":[
+      {"ligar": true}
+    ],
+    "propriedades":[
+      {
+      "Sinal":255,
+      "Status":"Ligado/Desligado",
+      "NomeDispositivo": "Luz 01"
+      }
+    ]
+  }
+}

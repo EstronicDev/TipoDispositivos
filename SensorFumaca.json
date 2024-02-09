@@ -1,0 +1,17 @@
+{
+  "dados":{
+    "id":"45854521",
+    "tipo": "SensorFumaca",
+    "acoes":[
+      {}
+    ],
+    "propriedades":[
+      {
+      "NomeDispositivo": "Sensor Fumaça Cozinha", 
+      "Sinal":255,
+      "Bateria":"100%",
+      "Fumaca": "Verdadeiro"
+      }
+    ]
+  }
+}

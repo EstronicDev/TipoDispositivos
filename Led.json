@@ -1,0 +1,19 @@
+{
+  "dados":{
+    "id":"45854521",
+    "tipo": "Led",
+    "acoes":
+      {"Ligar": true,
+      "AlteraçãoCor": "rgb(0,0,0)",
+      "AlteracaoBrilho": "358"}
+    ,
+    "propriedades":
+      {
+      "Sinal":255,
+      "Status":"Ligado",
+      "Cor": "RGB(0,0,0)",
+      "Brilho": "520"
+      }
+    
+  }
+}
