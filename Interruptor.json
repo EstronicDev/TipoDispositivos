@@ -1,0 +1,20 @@
+{
+  "dados":{
+    "id":"45854521",
+    "tipo": "Interruptor",
+    "acoes":
+      {}
+    ,
+    "propriedades":
+      {
+      "Sinal":255,
+      "Bateria": "100%",
+      "Tecla1":"Clique Simples || Clique Duplo",
+      "Tecla2":"Clique Simples || Clique Duplo",
+      "Tecla3":"Clique Simples || Clique Duplo",
+      "Tecla4":"Clique Simples || Clique Duplo",
+      "NomeDispositivo": "Interruptor Quarto"
+      }
+    
+  }
+}
