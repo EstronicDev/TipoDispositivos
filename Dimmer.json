@@ -1,0 +1,18 @@
+{
+  "dados":{
+    "id":"45854521",
+    "tipo": "Dimmer",
+    "acoes":
+      {"ligar": true,
+      "brilho": "100%"}
+    ,
+    "propriedades":
+      {
+      "Sinal":255,
+      "Status":"Ligado/Desligado",
+      "Brilho": "100%",
+      "NomeDispositivo": "Dimmer 01"
+      }
+    
+  }
+}
