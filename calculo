@@ -1,0 +1,29 @@
+function xyToRgb(x, y) {
+    // Coordenadas XY para XYZ
+    let z = 1.0 - x - y;
+    let Y = 1.0;
+    let X = (Y / y) * x;
+    let Z = (Y / y) * z;
+
+    // Conversão de XYZ para RGB
+    let r = X *  3.2406 + Y * -1.5372 + Z * -0.4986;
+    let g = X * -0.9689 + Y *  1.8758 + Z *  0.0415;
+    let b = X *  0.0557 + Y * -0.2040 + Z *  1.0570;
+
+    // Correção de gama
+    r = (r > 0.0031308) ? (1.055 * Math.pow(r, 1 / 2.4) - 0.055) : 12.92 * r;
+    g = (g > 0.0031308) ? (1.055 * Math.pow(g, 1 / 2.4) - 0.055) : 12.92 * g;
+    b = (b > 0.0031308) ? (1.055 * Math.pow(b, 1 / 2.4) - 0.055) : 12.92 * b;
+
+    // Normalização para o intervalo [0, 255]
+    r = Math.round(Math.max(0, Math.min(1, r)) * 255);
+    g = Math.round(Math.max(0, Math.min(1, g)) * 255);
+    b = Math.round(Math.max(0, Math.min(1, b)) * 255);
+
+    return [r, g, b];
+}
+
+// Exemplo de uso
+let xy = [0.5, 0.5]; // Coordenadas XY (exemplo)
+let rgb = xyToRgb(xy[0], xy[1]);
+console.log('Valores RGB:', rgb);
