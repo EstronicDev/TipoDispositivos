@@ -1,0 +1,21 @@
+{
+  action: '2_single',
+  battery: 88,
+  device: {
+    applicationVersion: 66,
+    dateCode: '',
+    friendlyName: 'Switch preto',
+    hardwareVersion: 1,
+    ieeeAddr: '0xf4b3b1fffece68f0',
+    manufacturerID: 4098,
+    manufacturerName: '_TZ3000_wkai4ga5',
+    model: 'TS0044',
+    networkAddress: 35627,
+    powerSource: 'Battery',
+    stackVersion: 0,
+    type: 'EndDevice',
+    zclVersion: 3
+  },
+  linkquality: 255,
+  voltage: 2900
+}

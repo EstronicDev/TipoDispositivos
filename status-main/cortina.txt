@@ -1,0 +1,21 @@
+{
+  device: {
+    applicationVersion: 83,
+    dateCode: '',
+    friendlyName: 'Cortina',
+    hardwareVersion: 1,
+    ieeeAddr: '0x9035eafffe6ac2ce',
+    manufacturerID: 4098,
+    manufacturerName: '_TZE200_fzo2pocs',
+    model: 'ZM25TQ',
+    networkAddress: 44915,
+    powerSource: 'Mains (single phase)',
+    stackVersion: 0,
+    type: 'Router',
+    zclVersion: 3
+  },
+  linkquality: 255,
+  position: 0,
+  running: false,
+  state: 'CLOSE'
+}

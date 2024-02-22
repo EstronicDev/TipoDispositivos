@@ -1,0 +1,21 @@
+{
+  battery: 100,
+  device: {
+    applicationVersion: 67,
+    dateCode: '',
+    friendlyName: 'IR',
+    hardwareVersion: 1,
+    ieeeAddr: '0xf082c0fffef681b3',
+    manufacturerID: 4098,
+    manufacturerName: '_TZ3290_j37rooaxrcdcqo5n',
+    model: 'UFO-R11',
+    networkAddress: 8373,
+    powerSource: 'Battery',
+    stackVersion: 0,
+    type: 'EndDevice',
+    zclVersion: 3
+  },
+  learned_ir_code: 'B60RrRFDAp0G4AED4AsB4BcfQAHAI8ABwA/AB8AB4AcPQAEH7bStEa0RQwLAG0AH4AsBQBfAA+APAeAHH8APwAfAAeAHD0AB4P2HoIcCAkMC',
+  linkquality: 255,
+  voltage: 1500
+}

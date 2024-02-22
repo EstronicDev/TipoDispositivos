@@ -1,0 +1,44 @@
+{
+  battery: 100,
+  device: {
+    applicationVersion: 74,
+    dateCode: '20180608',
+    friendlyName: 'Temperatura redondo',
+    hardwareVersion: 1,
+    ieeeAddr: '0xbc33acfffefc67e8',
+    manufacturerID: 0,
+    manufacturerName: 'TUYATEC-gqhxixyk',
+    model: 'TT001ZAV20',
+    networkAddress: 43216,
+    powerSource: 'Battery',
+    stackVersion: 0,
+    type: 'EndDevice',
+    zclVersion: 3
+  },
+  humidity: 61.78,
+  linkquality: 208,
+  temperature: 22.66,
+  voltage: 3000
+}
+{
+  battery: 100,
+  device: {
+    applicationVersion: 74,
+    dateCode: '20180608',
+    friendlyName: 'Temperatura redondo',
+    hardwareVersion: 1,
+    ieeeAddr: '0xbc33acfffefc67e8',
+    manufacturerID: 0,
+    manufacturerName: 'TUYATEC-gqhxixyk',
+    model: 'TT001ZAV20',
+    networkAddress: 43216,
+    powerSource: 'Battery',
+    stackVersion: 0,
+    type: 'EndDevice',
+    zclVersion: 3
+  },
+  humidity: 58.55,
+  linkquality: 208,
+  temperature: 22.66,
+  voltage: 3000
+}

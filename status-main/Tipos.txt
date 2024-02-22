@@ -1,0 +1,28 @@
+"dados":{
+		"id":"Id do dispositivo",
+		"tipo":"Cortina",
+		acoes:{
+			"Abrir" : "true",
+			"Fechar": "true",
+			"Posicao" : "80%",	
+		},
+		propriedade:{
+			"Sinal" : "255",
+		}
+}
+
+Tipos:{
+	"Luz",
+	"cortina",
+	"led",
+	"interruptor4T",
+	"interruptor",
+	"sensorTempHum",
+	"sensorPorta",
+	"sensorPresenca",
+	"sensorGas",
+	"sensorFumaca",
+	"sensorVibracao",
+	"motor",
+	"tomada"
+}

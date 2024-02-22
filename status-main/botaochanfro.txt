@@ -1,0 +1,22 @@
+{
+  action: 'single',
+  battery: 93,
+  device: {
+    applicationVersion: 65,
+    dateCode: '',
+    friendlyName: 'Botao chanfrado',
+    hardwareVersion: 1,
+    ieeeAddr: '0x70ac08fffebf1c3f',
+    manufacturerID: 4098,
+    manufacturerName: '_TZ3000_kjfzuycl',
+    model: 'ERS-10TZBVB-AA',
+    networkAddress: 7811,
+    powerSource: 'Battery',
+    stackVersion: 0,
+    type: 'EndDevice',
+    zclVersion: 3
+  },
+  linkquality: 255,
+  operation_mode: 'event',
+  voltage: 2900
+}

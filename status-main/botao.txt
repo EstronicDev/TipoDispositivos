@@ -1,0 +1,36 @@
+{
+    action: 'single',
+    battery: 100,
+    device: {
+      applicationVersion: 10,
+      friendlyName: 'Botao um',
+      ieeeAddr: '0x00158d0006ea911c',
+      manufacturerID: 4151,
+      manufacturerName: 'LUMI',
+      model: 'WXKG01LM',
+      networkAddress: 39344,
+      powerSource: 'Battery',
+      type: 'EndDevice'
+    },
+    linkquality: 255,
+    power_outage_count: 2913,
+    voltage: 3032
+  }
+  {
+    battery: 100,
+    click: 'single',
+    device: {
+      applicationVersion: 10,
+      friendlyName: 'Botao um',
+      ieeeAddr: '0x00158d0006ea911c',
+      manufacturerID: 4151,
+      manufacturerName: 'LUMI',
+      model: 'WXKG01LM',
+      networkAddress: 39344,
+      powerSource: 'Battery',
+      type: 'EndDevice'
+    },
+    linkquality: 255,
+    power_outage_count: 2913,
+    voltage: 3032
+}

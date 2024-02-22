@@ -1,0 +1,22 @@
+{
+  action: 'single',
+  battery: 81,
+  device: {
+    applicationVersion: 67,
+    dateCode: '',
+    friendlyName: 'Botao preto',
+    hardwareVersion: 1,
+    ieeeAddr: '0x3425b4fffefe5ade',
+    manufacturerID: 4098,
+    manufacturerName: '_TZ3000_4fjiwweb',
+    model: 'ERS-10TZBVK-AA',
+    networkAddress: 61552,
+    powerSource: 'Battery',
+    stackVersion: 0,
+    type: 'EndDevice',
+    zclVersion: 3
+  },
+  linkquality: 255,
+  operation_mode: 'event',
+  voltage: 2900
+}

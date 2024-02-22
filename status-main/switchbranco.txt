@@ -1,0 +1,21 @@
+{
+  action: '2_single',
+  battery: 77,
+  device: {
+    applicationVersion: 66,
+    dateCode: '',
+    friendlyName: 'Switch branco',
+    hardwareVersion: 1,
+    ieeeAddr: '0x187a3efffe1c2771',
+    manufacturerID: 4098,
+    manufacturerName: '_TZ3000_gbm10jnj',
+    model: 'TS0043',
+    networkAddress: 4835,
+    powerSource: 'Battery',
+    stackVersion: 0,
+    type: 'EndDevice',
+    zclVersion: 3
+  },
+  linkquality: 240,
+  voltage: 2800
+}

@@ -1,0 +1,22 @@
+{
+  battery: 37,
+  battery_low: false,
+  device: {
+    applicationVersion: 65,
+    dateCode: '',
+    friendlyName: 'Sensor de água',
+    hardwareVersion: 1,
+    ieeeAddr: '0xa4c138b9e4f796bf',
+    manufacturerID: 4417,
+    manufacturerName: '_TZ3000_t6jriawg',
+    model: 'TS0207_water_leak_detector',
+    networkAddress: 27727,
+    powerSource: 'Battery',
+    stackVersion: 0,
+    type: 'EndDevice',
+    zclVersion: 3
+  },
+  linkquality: 212,
+  tamper: false,
+  water_leak: false
+}

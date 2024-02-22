@@ -1,0 +1,23 @@
+{
+  brightness: 222,
+  color: { x: 0.6942, y: 0.2963 },
+  color_mode: 'xy',
+  color_temp: 158,
+  device: {
+    applicationVersion: 101,
+    dateCode: '',
+    friendlyName: 'Led novo',
+    hardwareVersion: 1,
+    ieeeAddr: '0x385cfbfffe2cbc4a',
+    manufacturerID: 4098,
+    manufacturerName: '_TZ3210_7hcgjxpc',
+    model: 'TS0505B_1',
+    networkAddress: 32393,
+    powerSource: 'Mains (single phase)',
+    stackVersion: 0,
+    type: 'Router',
+    zclVersion: 3
+  },
+  linkquality: 255,
+  state: 'ON'
+}

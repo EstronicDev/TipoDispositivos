@@ -1,0 +1,21 @@
+{
+  battery_low: false,
+  device: {
+    applicationVersion: 65,
+    dateCode: '',
+    friendlyName: 'Vibração',
+    hardwareVersion: 1,
+    ieeeAddr: '0xa4c138be0973e934',
+    manufacturerID: 4417,
+    manufacturerName: '_TZ3000_xsjsnzhz',
+    model: 'TS0210',
+    networkAddress: 60739,
+    powerSource: 'Battery',
+    stackVersion: 0,
+    type: 'EndDevice',
+    zclVersion: 3
+  },
+  linkquality: 208,
+  tamper: false,
+  vibration: true
+}

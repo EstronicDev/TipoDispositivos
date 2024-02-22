@@ -1,0 +1,21 @@
+{
+  battery_low: false,
+  device: {
+    applicationVersion: 67,
+    dateCode: '',
+    friendlyName: 'Ocupancia',
+    hardwareVersion: 1,
+    ieeeAddr: '0x804b50fffe4a1c82',
+    manufacturerID: 4098,
+    manufacturerName: 'TUYATEC-h542kfah',
+    model: 'RH3040',
+    networkAddress: 54262,
+    powerSource: 'Battery',
+    stackVersion: 0,
+    type: 'EndDevice',
+    zclVersion: 3
+  },
+  linkquality: 248,
+  occupancy: false,
+  tamper: false
+}

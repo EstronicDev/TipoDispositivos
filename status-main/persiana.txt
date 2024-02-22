@@ -1,0 +1,21 @@
+{
+  device: {
+    applicationVersion: 74,
+    dateCode: '',
+    friendlyName: 'Cortina persiana',
+    hardwareVersion: 1,
+    ieeeAddr: '0xa4c138f31aa04901',
+    manufacturerID: 4417,
+    manufacturerName: '_TZE204_guvc7pdy',
+    model: 'GM46',
+    networkAddress: 49190,
+    powerSource: 'Mains (single phase)',
+    stackVersion: 0,
+    type: 'Router',
+    zclVersion: 3
+  },
+  linkquality: 212,
+  position: 100,
+  running: false,
+  state: 'OPEN'
+}

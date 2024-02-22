@@ -1,0 +1,21 @@
+{
+  device: {
+    applicationVersion: 72,
+    dateCode: '',
+    friendlyName: 'Cortina bateria',
+    hardwareVersion: 1,
+    ieeeAddr: '0x040d84fffe1b212b',
+    manufacturerID: 4098,
+    manufacturerName: '_TZE200_nv6nxo0c',
+    model: 'TS0601_cover_1',
+    networkAddress: 45634,
+    powerSource: 'Battery',
+    stackVersion: 0,
+    type: 'EndDevice',
+    zclVersion: 3
+  },
+  linkquality: 248,
+  position: 0,
+  running: false,
+  state: 'CLOSE'
+}

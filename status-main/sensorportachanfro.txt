@@ -1,0 +1,23 @@
+{
+  battery: 42,
+  battery_low: false,
+  contact: false,
+  device: {
+    applicationVersion: 70,
+    dateCode: '',
+    friendlyName: 'Sensor porta chanfro',
+    hardwareVersion: 1,
+    ieeeAddr: '0xa4c1382c86763115',
+    manufacturerID: 4417,
+    manufacturerName: '_TZ3000_8yhypbo7',
+    model: 'TS0203',
+    networkAddress: 27076,
+    powerSource: 'Battery',
+    stackVersion: 0,
+    type: 'EndDevice',
+    zclVersion: 3
+  },
+  linkquality: 255,
+  tamper: false,
+  voltage: 2700
+}

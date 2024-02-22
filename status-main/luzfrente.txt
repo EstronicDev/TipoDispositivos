@@ -1,0 +1,21 @@
+{
+  device: {
+    applicationVersion: 67,
+    dateCode: '',
+    friendlyName: 'Luz frente',
+    hardwareVersion: 1,
+    ieeeAddr: '0xa4c138b4623151ad',
+    manufacturerID: 4417,
+    manufacturerName: '_TZ3000_tqlv4ug4',
+    model: 'TS0001_switch_module',
+    networkAddress: 54903,
+    powerSource: 'Mains (single phase)',
+    stackVersion: 0,
+    type: 'Router',
+    zclVersion: 3
+  },
+  linkquality: 224,
+  power_on_behavior: 'on',
+  state: 'ON',
+  switch_type: 'toggle'
+}

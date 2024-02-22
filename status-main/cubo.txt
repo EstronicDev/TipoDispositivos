@@ -1,0 +1,21 @@
+{
+  action: 'flip90',
+  action_from_side: 4,
+  action_side: 5,
+  action_to_side: 5,
+  device: {
+    applicationVersion: 5,
+    friendlyName: 'Cubo',
+    ieeeAddr: '0x00158d000727cb5f',
+    manufacturerID: 4151,
+    manufacturerName: 'LUMI',
+    model: 'MFKZQ01LM',
+    networkAddress: 32201,
+    powerSource: 'Battery',
+    type: 'EndDevice'
+  },
+  from_side: 4,
+  linkquality: 220,
+  side: 5,
+  to_side: 5
+}
