@@ -10,7 +10,7 @@ _TZE200_la2c2uo9
     ,
     "propriedades":
       {
-      "Sinal":255,
+      "Sinal":"linkquality",
       "Status":"Ligado/Desligado",
       "Brilho": "brightness",
       "NomeDispositivo": "Dimmer 01"
