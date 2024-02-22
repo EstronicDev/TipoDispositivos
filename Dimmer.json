@@ -1,18 +1,23 @@
+_TZE200_la2c2uo9
+
 {
   "dados":{
-    "id":"45854521",
+    "id":"",
     "tipo": "Dimmer",
     "acoes":
-      {"ligar": true,
-      "brilho": "100%"}
+      {"ligar": "state",
+      "brilho": "brightness"}
     ,
     "propriedades":
       {
       "Sinal":255,
       "Status":"Ligado/Desligado",
-      "Brilho": "100%",
+      "Brilho": "brightness",
       "NomeDispositivo": "Dimmer 01"
       }
     
   }
 }
+
+
+
