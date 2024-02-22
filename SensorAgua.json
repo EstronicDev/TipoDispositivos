@@ -1,17 +1,22 @@
 {
   "dados":{
-    "id":"45854521",
+    "id":"",
     "tipo": "SensorAgua",
     "acoes":
-      {}
+      {
+        "Inundacao": "tamper"
+      }
     ,
     "propriedades":
       {
-      "NomeDispositivo": "Sensor Água", 
-      "Sinal":255,
-      "Bateria":"100%",
-      "Inundacao": "Verdadeiro"
+      "NomeDispositivo": "device.friendlyName", 
+      "Sinal":"linkquality",
+      "Bateria":"battery",
+      "Inundacao": "tamper"
       }
-    
   }
 }
+
+TS0207_water_leak_detector
+
+TS0207
